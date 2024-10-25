@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nikhil Tholiya</h1>
 <h3 align="center">A passionate Mobile App developer/Full Stack Developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5119ee303e5e49cdf23def653b737bede0da49a859a34714d62d9ab518afbbb2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhiltholiya&label=Profile%20views&color=0e75b6&style=flat" alt="nikhiltholiya" /> </p>
 
